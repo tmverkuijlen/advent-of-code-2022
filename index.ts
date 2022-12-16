@@ -6,6 +6,8 @@
 // import { run } from './day-6';
 // import { run } from './day-7';
 // import { run } from './day-8';
-import { run } from './day-9';
+// import { run } from './day-9';
+// import { run } from './day-10';
+import { run } from './day-11';
 
 run();
